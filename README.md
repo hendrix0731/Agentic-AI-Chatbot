@@ -114,7 +114,7 @@ Agentic-AI-Chatbot/
 |----------------|--------------|
 | ![Chat UI](screenshots/app.png) | ![API Output](screenshots/api_result.png) |
 
-> *(Add your actual screenshots in a `screenshots/` folder and update these links.)*
+
 
 ---
 
