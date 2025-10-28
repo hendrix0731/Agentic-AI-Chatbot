@@ -1,0 +1,23 @@
+# Core AI and LangChain ecosystem
+langchain
+langchain-community
+langgraph
+langchain-openai
+
+# Web interface
+streamlit
+
+# Environment variables
+python-dotenv
+
+# API and HTTP requests
+requests
+
+# Optional: for JSON handling and data manipulation
+pandas
+
+# (Optional) For improved async support or agent tracing
+tqdm
+
+# Version control helpers (optional but useful)
+gitpython
