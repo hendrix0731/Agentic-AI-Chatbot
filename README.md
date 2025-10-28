@@ -112,7 +112,7 @@ Agentic-AI-Chatbot/
 
 | Chat Interface | API Response |
 |----------------|--------------|
-| ![Chat UI](screenshots/Chat_UI.png) | ![API Output](screenshots/API_Output.png) |
+| ![Chat UI]([screenshots](https://github.com/hendrix0731/Agentic-AI-Chatbot/tree/main/Screenshots/Chat_UI.png) | ![API Output]([screenshots](https://github.com/hendrix0731/Agentic-AI-Chatbot/tree/main/Screenshots/API_Output.png) |
 
 
 
