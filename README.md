@@ -136,7 +136,7 @@ Agentic-AI-Chatbot/
 
 📧 [harsh.joshi.m07@gmail.com](mailto:harsh.joshi.m07@gmail.com)  
 🔗 [GitHub – hendrix0731](https://github.com/hendrix0731)  
-💼 [LinkedIn – Add Link Here](https://linkedin.com/in/your-link)  
+💼 [LinkedIn – Add Link Here](https://www.linkedin.com/in/hendrix07/)  
 
 ---
 
